@@ -10,20 +10,20 @@ export const Ul = styled.ul`
 `;
 
 export const Li = styled.li`
-  margin-bottom: 15px;
+  margin: 20px;
   color: green;
   align-items: baseline;
   display: flex;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
 `;
 
 export const Button = styled.button`
   padding: 4px 8px;
   display: block;
-  font-size: 14px;
+  font-size: 18px;
   border-radius: 10px;
-  margin-left: 10px;
+  margin-left: 15px;
   outline: 0;
   text-decoration: none;
   cursor: pointer;
